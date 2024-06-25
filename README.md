@@ -8,7 +8,6 @@ I am a Full Stack Developer from **Canada**🇨🇦, St. Johns.
 - 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on **react-native-osm**.
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-pliuiko)
 
 ### 🛠 &nbsp;Languages and Tools :
 
